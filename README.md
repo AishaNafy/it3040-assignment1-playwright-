@@ -293,7 +293,9 @@ Compliant with IT3040 Assignment 1 submission requirements.
 # Author
 
 Student Name: Nafy F A 
+
 Registration Number: IT233321236
+
 Module: IT3040 – Information Technology Project Management  
 
 ---
