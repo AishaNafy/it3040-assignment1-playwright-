@@ -1,5 +1,5 @@
 # IT3040 – Assignment 1  
-## Chat Sinhala Transliteration Accuracy Testing using Playwright
+# Chat Sinhala Transliteration Accuracy Testing using Playwright
 
 This repository contains the complete automation project developed for **IT3040 – ITPM Semester 1, Assignment 1 (IT23321236)**.  
 
@@ -60,7 +60,7 @@ The framework supports:
 
 Before running this project, ensure the following are installed:
 
-## Python
+# Python
 
 Download and install Python:
 
@@ -78,7 +78,7 @@ python --version
 
 ---
 
-## Git
+# Git
 
 Download:
 
@@ -110,19 +110,19 @@ cd <YOUR_PROJECT_FOLDER>
 
 # Installation
 
-## Step 1: Upgrade pip
+# Step 1: Upgrade pip
 
 ```bash
 pip install --upgrade pip
 ```
 
-## Step 2: Install dependencies
+# Step 2: Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Step 3: Install Playwright browsers
+# Step 3: Install Playwright browsers
 
 ```bash
 playwright install
@@ -175,25 +175,25 @@ python test_automation.py --excel "Assignment 1 - Test cases.xlsx"
 
 # Advanced Execution Options
 
-## Keep browser open
+# Keep browser open
 
 ```bash
 python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --keep-open
 ```
 
-## Slow motion execution
+# Slow motion execution
 
 ```bash
 python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --slow-mo-ms 200
 ```
 
-## Headless mode
+# Headless mode
 
 ```bash
 python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --headless
 ```
 
-## Save after every test
+# Save after every test
 
 ```bash
 python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --save-every 1
@@ -217,11 +217,11 @@ python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --save-every 
 
 After execution, the Excel file is automatically updated with:
 
-## Actual Output
+# Actual Output
 
 Sinhala output returned by the application.
 
-## Status
+# Status
 
 Possible values:
 
@@ -236,19 +236,19 @@ Possible values:
 
 The framework handles:
 
-## UI element detection failures
+# UI element detection failures
 
 Automatically retries until timeout.
 
-## Network delays
+# Network delays
 
 Configurable wait and retry strategy.
 
-## Dynamic UI overlays
+# Dynamic UI overlays
 
 Automatically dismisses popup dialogs.
 
-## Excel formatting issues
+# Excel formatting issues
 
 Supports merged cells and dynamic column resolution.
 
