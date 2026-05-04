@@ -49,7 +49,6 @@ The framework supports:
 .
 ├── test_automation.py
 ├── Assignment 1 - Test cases.xlsx
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
