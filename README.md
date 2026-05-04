@@ -1,5 +1,5 @@
 # IT3040 – Assignment 1  
-# Chat Sinhala Transliteration Accuracy Testing using Playwright
+# **Chat Sinhala Transliteration Accuracy Testing using Playwright**
 
 This repository contains the complete automation project developed for **IT3040 – ITPM Semester 1, Assignment 1 (IT23321236)**.  
 
